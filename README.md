@@ -1,4 +1,4 @@
-# spooky-scary
+# [spooky-scary](https://jesperorb.github.io/spooky-scary/)
 
 ### ONLY WORKS IN FIREFOX
 
